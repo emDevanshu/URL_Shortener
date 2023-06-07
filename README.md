@@ -1,4 +1,4 @@
-https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white 
+<img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white 
 (https://skills.thijs.gg/icons?i=java&theme=light)
 
 # URL_Shortener ![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)

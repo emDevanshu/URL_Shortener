@@ -8,7 +8,7 @@ This is a URL Shortener application created using Java Maven
 
 ## Tech stack
 - Spring Boot framework
-- h2 JDBC in-memory databse
+- h2 JDBC in-memory database
 - Apache commons library
 - Guava library by Google
 - Postman (for testing API)
